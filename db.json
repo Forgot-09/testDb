@@ -1,17 +1,19 @@
-[
-  {
-    "id": "user1",
-    "head": "head1",
-    "body": "body1"
-  },
-  {
-    "id": "user2",
-    "head": "head2",
-    "body": "body2"
-  },
-  {
-    "id": "user3",
-    "head": "head3",
-    "body": "body3"
-  }
-]
+{
+   "main" : [
+    {
+      "id": "user1",
+      "head": "head1",
+      "body": "body1"
+    },
+    {
+      "id": "user2",
+      "head": "head2",
+      "body": "body2"
+    },
+    {
+      "id": "user3",
+      "head": "head3",
+      "body": "body3"
+    }
+  ]
+}
